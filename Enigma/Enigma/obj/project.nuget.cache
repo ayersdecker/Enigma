@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3PziyMZc4IcK93PggXSqVgXBJvtdXkM+PMZXt6tT9tACcWJc2QytKaF9oTa2HBKy1GTJoPnyTEsuB4DLiN+PhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decker Ayers\\source\\repos\\Enigma\\Enigma\\Enigma\\Enigma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decker Ayers\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Decker Ayers\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Decker Ayers\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Decker Ayers\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.15\\microsoft.netcore.app.host.win-x86.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

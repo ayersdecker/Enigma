@@ -1,0 +1,16 @@
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\Enigma.exe
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\Enigma.deps.json
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\Enigma.runtimeconfig.json
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\Enigma.runtimeconfig.dev.json
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\Enigma.dll
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\ref\Enigma.dll
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\bin\Debug\net5.0\Enigma.pdb
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.csproj.AssemblyReference.cache
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.AssemblyInfoInputs.cache
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.AssemblyInfo.cs
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.dll
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\ref\Enigma.dll
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.pdb
+C:\Users\Decker Ayers\source\repos\Enigma\Enigma\Enigma\obj\Debug\net5.0\Enigma.genruntimeconfig.cache
