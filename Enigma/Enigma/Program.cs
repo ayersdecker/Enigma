@@ -4,7 +4,7 @@ namespace Enigma
 {
     class Program
     {
-        static string[] mainMenuSelections = new string[] { "Encrypt New Data", "Decrypt Existing Data", "Exit" };
+        static string[] mainMenuSelections = new string[] { "Encrypt New Data (FencePost)","Encrypt New Data (Modulos)", "Decrypt Existing Data (FencePost)", "Exit" };
 
         static void Main(string[] args)
         {
@@ -16,9 +16,12 @@ namespace Enigma
                         CreateEncryption();
                         break;
                     case 2:
-                        DecypherData();
+                        CreateEncryption2();
                         break;
                     case 3:
+                        DecypherData();
+                        break;
+                    case 4:
                         Utility.ExitProgram();
                         break;
                     default:
@@ -36,7 +39,7 @@ namespace Enigma
             int dial2 = Utility.ValidateNum(0, 9);
             Console.WriteLine("Dial 3 [Pick a number 0-9]");
             int dial3 = Utility.ValidateNum(0, 9);
-            
+
             string dataIn = Utility.GatherString("Data to be encrypted: ");
 
             string output = Dial.DialPlus(dial1, dataIn);
@@ -44,6 +47,20 @@ namespace Enigma
             string output3 = Dial.DialPlus(dial3, output2);
             Console.WriteLine("\nCoded Text:\n" + output3);
 
+
+
+
+
+
+            Console.ReadLine();
+        }
+        private static void CreateEncryption2()
+        {
+
+            string dataIn = Utility.GatherString("Data to be encrypted: ");
+
+            string output = Dial.CypherEncrypt(dataIn);
+            Console.WriteLine("\nCoded Text:\n" + output);
 
 
 
